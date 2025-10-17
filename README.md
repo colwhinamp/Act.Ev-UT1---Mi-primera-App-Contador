@@ -30,7 +30,7 @@ Abrir la app escaneando el QR con la aplicación Expo Go en un dispositivo físi
 
 4. Estructura del proyecto
 
-app/index.tsx: Contiene el componente principal, la lógica de estado (useState) y toda la interfaz de usuario.
+app/tabs/index.tsx: Contiene el componente principal, la lógica de estado (useState) y toda la interfaz de usuario.
 
 app.json: Archivo de configuración general del proyecto (nombre, versión SDK).
 
